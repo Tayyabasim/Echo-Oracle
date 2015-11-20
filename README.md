@@ -1,1 +1,2 @@
 # Echo-Oracle
+hello buddy
